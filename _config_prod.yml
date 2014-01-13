@@ -1,0 +1,5 @@
+name: Accessibility & Google Glass
+markdown: redcarpet
+pygments: true
+url: http://social.cs.illinois.edu/cagleas2
+exclude: ['sync.sh']
