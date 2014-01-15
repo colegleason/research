@@ -1,3 +1,8 @@
 name: Accessibility & Google Glass
 markdown: redcarpet
 pygments: true
+mini_magick:
+    posts:
+        source: images/originals
+        destination: images/posts
+        resize: "800x600"

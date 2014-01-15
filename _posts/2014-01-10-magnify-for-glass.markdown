@@ -25,4 +25,8 @@ as crashes and lag), but I'd like to introduce [Magnify for Glass][magnify]. I
 wouldn't use it yet, as it isn't stable, but I'll make sure to update
 this post when it is!
 
+Here's an example:
+
+![Magnify for Glass 1]({{ site.url}}/images/posts/magnify-1.jpg)
+
 [magnify]: https://github.com/colegleason/magnify-for-glass

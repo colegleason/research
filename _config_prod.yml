@@ -3,3 +3,8 @@ markdown: redcarpet
 pygments: true
 url: http://social.cs.illinois.edu/cagleas2
 exclude: ['sync.sh']
+mini_magick:
+    posts:
+        source: images/originals
+        destination: images/posts
+        resize: "800x600"
